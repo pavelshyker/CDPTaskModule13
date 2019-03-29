@@ -1,0 +1,154 @@
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\obj\Debug\TestWebProject.csprojAssemblyReference.cache
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\obj\Debug\TestWebProject.csproj.CoreCompileInputs.cache
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\UnitTestProject2.dll.config
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\WebDriver.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\WebDriver.Support.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\WebDriver.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\WebDriver.Support.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\obj\Debug\TestWebProject.csproj.CopyComplete
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule6\UnitTestProject2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\UnitTestProject2.dll.config
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\WebDriver.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\WebDriver.Support.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\WebDriver.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\bin\Debug\WebDriver.Support.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\obj\Debug\TestWebProject.csprojAssemblyReference.cache
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\obj\Debug\TestWebProject.csproj.CoreCompileInputs.cache
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\obj\Debug\TestWebProject.csproj.CopyComplete
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule7\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\UnitTestProject2.dll.config
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\WebDriver.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\WebDriver.Support.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\WebDriver.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\bin\Debug\WebDriver.Support.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\obj\Debug\TestWebProject.csprojAssemblyReference.cache
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\obj\Debug\TestWebProject.csproj.CoreCompileInputs.cache
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\obj\Debug\TestWebProject.csproj.CopyComplete
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\obj\Debug\TestWebProject.csprojAssemblyReference.cache
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\obj\Debug\TestWebProject.csproj.CoreCompileInputs.cache
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\UnitTestProject2.dll.config
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\WebDriver.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\WebDriver.Support.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\WebDriver.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\bin\Debug\WebDriver.Support.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy\UnitTestProject2\obj\Debug\TestWebProject.csproj.CopyComplete
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\UnitTestProject2.dll.config
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\WebDriver.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\WebDriver.Support.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\WebDriver.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\WebDriver.Support.xml
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\obj\Debug\TestWebProject.csprojAssemblyReference.cache
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\obj\Debug\TestWebProject.csproj.CoreCompileInputs.cache
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\obj\Debug\TestWebProject.csproj.CopyComplete
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\log4net.dll
+C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\bin\Debug\log4net.xml
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\UnitTestProject2.dll.config
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\log4net.dll
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\WebDriver.dll
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\WebDriver.Support.dll
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\log4net.xml
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\WebDriver.xml
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\bin\Debug\WebDriver.Support.xml
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\obj\Debug\TestWebProject.csproj.CoreCompileInputs.cache
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\obj\Debug\TestWebProject.csproj.CopyComplete
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+C:\Users\Pavel_Shyker\CDPTasks\CDPTaskModule13(1)\UnitTestProject2\obj\Debug\TestWebProject.csprojAssemblyReference.cache

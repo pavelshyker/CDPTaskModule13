@@ -1,0 +1,20 @@
+2019-03-29 05:24:12,657 ERROR[LOGGER]: Image20190329_052412.jpg -> Screen is created
+2019-03-29 05:24:15,811 ERROR[LOGGER]: Exception: OpenQA.Selenium.WebDriverTimeoutException: Timed out after 30 seconds ---> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submitt']"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.16299 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at OpenQA.Selenium.Support.UI.ExpectedConditions.<>c__DisplayClass7_0.<ElementIsVisible>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at TestWebProject.Webdriver.BaseElement.WaitForIsVisible() in C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\Util\BaseElements\BaseElement.cs:line 52
+   at TestWebProject.Webdriver.BaseElement.Click() in C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\Util\BaseElements\BaseElement.cs:line 86
+   at TestWebProject.Pages.StartPage.Login(User user) in C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\Pages\StartPage.cs:line 37
+   at TestWebProject.MailRuMSTests.LoginTest() in C:\Users\Pavel_Shyker\source\repos\TestWebProjectModule8 - Copy - Copy\UnitTestProject2\Tests\MailRuMSTests.cs:line 26

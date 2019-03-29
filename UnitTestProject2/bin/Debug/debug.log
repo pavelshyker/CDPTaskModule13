@@ -1,0 +1,2 @@
+[0317/182050.992:ERROR:file_io_win.cc(170)] CreateFile C:\Users\PAVEL_~1\AppData\Local\Temp\scoped_dir124332_3867\Crashpad\reports\167db4c7-35d8-4b8b-b46f-8e0d4172776c.dmp: The system cannot find the path specified. (0x3)
+[0317/182052.354:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
